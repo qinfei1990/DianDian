@@ -7,5 +7,12 @@
     <string name="main_a_btn_menu">菜单</string>
     <string name="main_a_btn_mine">我的</string>
     <string name="main_a_btn_order">订单</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_mine">MineActivity</string>
+    <string name="title_activity_order">OrderActivity</string>
+    <string name="login_a_et_loginname">登录名</string>
+    <string name="login_a_et_loginpsw">密码</string>
+    <string name="login_a_btn_login">登陆</string>
 
 </resources>
