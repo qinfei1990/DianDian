@@ -4,5 +4,8 @@
     <string name="app_name">diandian</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="main_a_btn_menu">菜单</string>
+    <string name="main_a_btn_mine">我的</string>
+    <string name="main_a_btn_order">订单</string>
 
 </resources>
