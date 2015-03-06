@@ -14,5 +14,6 @@
     <string name="login_a_et_loginname">登录名</string>
     <string name="login_a_et_loginpsw">密码</string>
     <string name="login_a_btn_login">登陆</string>
+    <string name="mine_a_btn_log_out">注销</string>
 
 </resources>
